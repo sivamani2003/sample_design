@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
     "aos": "^2.3.4",
     "daisyui": "^4.12.2",
+    "gsap": "^3.12.5",
     "install": "^0.13.0",
     "npm": "^10.8.1",
     "react": "^18.2.0",
@@ -21,6 +23,7 @@
     "react-multi-carousel": "^2.8.5",
     "react-qr-code": "^2.0.14",
     "react-router-dom": "^6.23.1",
+    "react-swipeable": "^7.0.1",
     "stripe": "^15.10.0",
     "swipeable": "^1.0.5",
     "swiper": "^11.1.4"
